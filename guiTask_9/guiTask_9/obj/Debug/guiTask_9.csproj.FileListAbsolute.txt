@@ -1,0 +1,11 @@
+D:\Real files\Projeckts\VisualStudio\forMoney\AlexMoroz\guiTask_9\guiTask_9\bin\Debug\guiTask_9.exe.config
+D:\Real files\Projeckts\VisualStudio\forMoney\AlexMoroz\guiTask_9\guiTask_9\bin\Debug\guiTask_9.exe
+D:\Real files\Projeckts\VisualStudio\forMoney\AlexMoroz\guiTask_9\guiTask_9\bin\Debug\guiTask_9.pdb
+D:\Real files\Projeckts\VisualStudio\forMoney\AlexMoroz\guiTask_9\guiTask_9\obj\Debug\guiTask_9.csprojAssemblyReference.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\AlexMoroz\guiTask_9\guiTask_9\obj\Debug\guiTask_9.Form1.resources
+D:\Real files\Projeckts\VisualStudio\forMoney\AlexMoroz\guiTask_9\guiTask_9\obj\Debug\guiTask_9.Properties.Resources.resources
+D:\Real files\Projeckts\VisualStudio\forMoney\AlexMoroz\guiTask_9\guiTask_9\obj\Debug\guiTask_9.csproj.GenerateResource.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\AlexMoroz\guiTask_9\guiTask_9\obj\Debug\guiTask_9.csproj.CoreCompileInputs.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\AlexMoroz\guiTask_9\guiTask_9\obj\Debug\guiTask_9.exe
+D:\Real files\Projeckts\VisualStudio\forMoney\AlexMoroz\guiTask_9\guiTask_9\obj\Debug\guiTask_9.pdb
+D:\Real files\Projeckts\VisualStudio\forMoney\AlexMoroz\guiTask_9\guiTask_9\obj\Debug\guiTask_9.Form2.resources
