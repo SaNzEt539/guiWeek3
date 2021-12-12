@@ -1,0 +1,10 @@
+D:\Real files\Projeckts\VisualStudio\forMoney\AlexMoroz\guiTask_8\guiTask_8\bin\Debug\guiTask_8.exe.config
+D:\Real files\Projeckts\VisualStudio\forMoney\AlexMoroz\guiTask_8\guiTask_8\bin\Debug\guiTask_8.exe
+D:\Real files\Projeckts\VisualStudio\forMoney\AlexMoroz\guiTask_8\guiTask_8\bin\Debug\guiTask_8.pdb
+D:\Real files\Projeckts\VisualStudio\forMoney\AlexMoroz\guiTask_8\guiTask_8\obj\Debug\guiTask_8.csprojAssemblyReference.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\AlexMoroz\guiTask_8\guiTask_8\obj\Debug\guiTask_8.Form1.resources
+D:\Real files\Projeckts\VisualStudio\forMoney\AlexMoroz\guiTask_8\guiTask_8\obj\Debug\guiTask_8.Properties.Resources.resources
+D:\Real files\Projeckts\VisualStudio\forMoney\AlexMoroz\guiTask_8\guiTask_8\obj\Debug\guiTask_8.csproj.GenerateResource.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\AlexMoroz\guiTask_8\guiTask_8\obj\Debug\guiTask_8.csproj.CoreCompileInputs.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\AlexMoroz\guiTask_8\guiTask_8\obj\Debug\guiTask_8.exe
+D:\Real files\Projeckts\VisualStudio\forMoney\AlexMoroz\guiTask_8\guiTask_8\obj\Debug\guiTask_8.pdb
